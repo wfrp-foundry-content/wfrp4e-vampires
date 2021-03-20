@@ -70,5 +70,7 @@
 			"path": "./packs/journals.db",
 			"entity": "JournalEntry"
 		}
-	]
+	],
+	"url": "https://github.com/wfrp-foundry-content/wfrp4e-vampires",
+	"manifest": "https://raw.githubusercontent.com/wfrp-foundry-content/wfrp4e-vampires/main/module.json"
 }
