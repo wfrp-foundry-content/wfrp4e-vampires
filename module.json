@@ -72,5 +72,6 @@
 		}
 	],
 	"url": "https://github.com/wfrp-foundry-content/wfrp4e-vampires",
-	"manifest": "https://raw.githubusercontent.com/wfrp-foundry-content/wfrp4e-vampires/main/module.json"
+	"manifest": "https://raw.githubusercontent.com/wfrp-foundry-content/wfrp4e-vampires/main/module.json",
+	"download": "https://github.com/wfrp-foundry-content/wfrp4e-vampires/archive/main.zip"
 }
