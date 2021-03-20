@@ -1,0 +1,74 @@
+{
+	"name": "wfrp4e-vampires",
+	"title": "WFRP4e - Vampires Sourcebook",
+	"description": "Foundry Module converting the excellent work of @AdambeyonceLowe (adam-lowe.com)",
+	"author": "Vindico#9013",
+	"version": "0.0.9",
+	"minimumCoreVersion": "0.7.9",
+	"packs": [
+		{
+			"name": "vampires-talents",
+			"label": "Vampire Blood Gifts",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/talents.db",
+			"entity": "Item"
+		},
+		{
+			"name": "vampires-transformations",
+			"label": "Vampire Transformations",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/transformations.db",
+			"entity": "Item"
+		},
+		{
+			"name": "vampires-traits",
+			"label": "Vampire Traits",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/traits.db",
+			"entity": "Item"
+		},
+		{
+			"name": "vampires-trappings",
+			"label": "Vampire Trappings",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/trappings.db",
+			"entity": "Item"
+		},
+		{
+			"name": "vampires-careers",
+			"label": "Vampire Careers",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/careers.db",
+			"entity": "Item"
+		},
+		{
+			"name": "vampires-mutations",
+			"label": "Vampire Mutations",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/mutations.db",
+			"entity": "Item"
+		},
+		{
+			"name": "vampires-actors",
+			"label": "Vampire Bestiary",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/actors.db",
+			"entity": "Actor"
+		},
+		{
+			"name": "vampires-journals",
+			"label": "Vampires",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/journals.db",
+			"entity": "JournalEntry"
+		}
+	]
+}
