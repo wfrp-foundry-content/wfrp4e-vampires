@@ -3,7 +3,7 @@
 	"title": "WFRP4e - Vampires Sourcebook",
 	"description": "Foundry Module converting the excellent work of @AdambeyonceLowe (adam-lowe.com)",
 	"author": "Vindico#9013",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"minimumCoreVersion": "0.7.9",
 	"compatibleCoreVersion": "0.7.9",
 	"packs": [
@@ -20,8 +20,8 @@
 			"label": "Vampire Transformations",
 			"system": "wfrp4e",
 			"module": "wfrp4e-vampires",
-			"path": "./packs/macros.db",
-			"entity": "Macro"
+			"path": "./packs/transformations.db",
+			"entity": "JournalEntry"
 		},
 		{
 			"name": "vampires-traits",
