@@ -3,7 +3,7 @@
 	"title": "WFRP4e - Vampires Sourcebook",
 	"description": "Foundry Module converting the excellent work of @AdambeyonceLowe (adam-lowe.com)",
 	"author": "Vindico#9013",
-	"version": "0.1.8",
+	"version": "0.1.9-dev",
 	"minimumCoreVersion": "0.7.9",
 	"compatibleCoreVersion": "0.7.9",
 	"packs": [
