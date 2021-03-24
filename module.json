@@ -24,6 +24,14 @@
 			"entity": "Item"
 		},
 		{
+			"name": "vampire-transformation-effects",
+			"label": "Vampire Transformation Effects",
+			"system": "wfrp4e",
+			"module": "wfrp4e-vampires",
+			"path": "./packs/transformationmacros.db",
+			"entity": "Macro"
+		},
+		{
 			"name": "vampires-transformations",
 			"label": "Vampire Transformations",
 			"system": "wfrp4e",
